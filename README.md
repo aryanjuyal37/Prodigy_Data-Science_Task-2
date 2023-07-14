@@ -1,6 +1,6 @@
-# Data Visualization with Histograms - Adult Census Income Dataset
+# Data Cleaning and EDA - Adult Census Income Dataset
 
-This repository contains code and resources for visualizing the distribution of categorical data using histograms in the Adult Census Income dataset. The dataset provides demographic information about individuals and their income levels.
+This repository contains code and resources for data cleaning and Exploratory Data Analysis of the Adult Census Income dataset. The dataset provides demographic information about individuals and their income levels.
 
 ## Dataset
 
@@ -9,24 +9,24 @@ The Adult Census Income dataset is available [here](https://www.kaggle.com/datas
 ## Repository Contents
 
 - `data/`: This directory contains the Adult Census Income dataset files.
-- `prodigy-infotech-data-science-task-1.ipynb`: Jupyter Notebook file containing code and visualizations.
+- `prodigy-infotech-data-science-task-2.ipynb`: Jupyter Notebook file containing code and analysis.
 - `README.md`: This file provides an overview of the repository.
 
 ## Instructions
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/aryanjuyal37/Prodigy_Data-Science_Task-1.git
+git clone https://github.com/aryanjuyal37/Prodigy_Data-Science_Task-2.git
 
-2. Open the `prodigy-infotech-data-science-task-1.ipynb` file using Jupyter Notebook or any compatible environment.
+2. Open the `prodigy-infotech-data-science-task-2.ipynb` file using Jupyter Notebook or any compatible environment.
 
-3. Execute the code cells in the notebook to load the dataset, preprocess the data, and create histograms for categorical variables.
+3. Execute the code cells in the notebook to load the dataset, preprocess and clean the data, and perform Exploratory Data Analysis.
 
-4. Review the generated histograms and analyze the distribution of categorical data.
+4. Review the generated histograms and analyze them to make observations and conclusions.
 
 ## Results
 
-The notebook generates histograms that visualize the distribution of categorical variables such as work-class, education, marital status, and more in the Adult Census Income dataset. The histograms provide insights into the income distribution across different categories, helping to identify trends and patterns.
+In this notebook, our objective was to understand the Adult Census Income dataset available on Kaggle. We accomplished this by performing data cleaning, preparation, and exploratory data analysis (EDA) specifically focused on categorical data using histograms. Through our analysis and the creation of histograms, we were able to gain better insights into the income distribution across different categories. Our EDA process provided us with valuable information about the dataset itself, further enhancing our understanding of its characteristics and patterns.
 
 ## Contributing
 
